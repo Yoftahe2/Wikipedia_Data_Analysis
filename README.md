@@ -1,4 +1,5 @@
-# README for Wikipedia Book Recommendation System
+# README
+# Wikipedia Book Recommendation System
 Overview
 This project is a data science initiative focused on analyzing Wikipedia data to build a book recommendation system. The project involves downloading and parsing Wikipedia data, exploring the data, and conducting exploratory analysis to derive valuable insights for generating personalized book recommendations.
 
