@@ -59,7 +59,8 @@ recommendations = recommend_books(user_input)
 The project primarily utilizes Wikipedia data for book recommendations. Specific URLs and datasets will be outlined in the respective modules.
 
 # Contribution
-Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests. Your input is valuable for improving this project.
+Contributions are welcome! 
+Feel free to fork the repository, make changes, and submit pull requests. Your input is valuable for improving this project.
 
 #Acknowledgments
 Thanks to the contributors of the libraries used in this project.
