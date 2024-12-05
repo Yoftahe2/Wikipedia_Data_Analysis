@@ -55,14 +55,14 @@ Run
 Copy
 from recommendation_module import recommend_books
 recommendations = recommend_books(user_input)
-#Data Source
+# Data Source
 The project primarily utilizes Wikipedia data for book recommendations. Specific URLs and datasets will be outlined in the respective modules.
 
 # Contribution
 Contributions are welcome! 
 Feel free to fork the repository, make changes, and submit pull requests. Your input is valuable for improving this project.
 
-#Acknowledgments
+# Acknowledgments
 Thanks to the contributors of the libraries used in this project.
 Special thanks to Wikipedia for providing a rich dataset for analysis.
 For any questions or issues, please contact the project maintainer. Enjoy exploring and building your book recommendation system!
